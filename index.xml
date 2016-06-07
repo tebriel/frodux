@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frodux</title>
-    <link>http://tebriel.github.io/frodux/</link>
+    <link>https://tebriel.github.io/frodux/</link>
     <description>Recent content on Frodux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Dec 2015 15:54:00 -0400</lastBuildDate>
-    <atom:link href="http://tebriel.github.io/frodux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tebriel.github.io/frodux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Logstash Grok Speeds</title>
-      <link>http://tebriel.github.io/frodux/post/logstash_grok_speeds/</link>
+      <link>https://tebriel.github.io/frodux/post/logstash_grok_speeds/</link>
       <pubDate>Mon, 21 Dec 2015 15:54:00 -0400</pubDate>
       
-      <guid>http://tebriel.github.io/frodux/post/logstash_grok_speeds/</guid>
+      <guid>https://tebriel.github.io/frodux/post/logstash_grok_speeds/</guid>
       <description>
 
 &lt;p&gt;Logstash and its Grok filter are excellent and I love them, but it was going so slow that the data was useless by the time I had finally ingested it to review it, here&amp;rsquo;s what was wrong and how I fixed it.&lt;/p&gt;
@@ -115,10 +115,10 @@ end
     
     <item>
       <title>Logstash Config File Organization</title>
-      <link>http://tebriel.github.io/frodux/post/logstash_config_file_organization/</link>
+      <link>https://tebriel.github.io/frodux/post/logstash_config_file_organization/</link>
       <pubDate>Tue, 10 Mar 2015 20:33:00 -0400</pubDate>
       
-      <guid>http://tebriel.github.io/frodux/post/logstash_config_file_organization/</guid>
+      <guid>https://tebriel.github.io/frodux/post/logstash_config_file_organization/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;m currently at &lt;a href=&#34;http://www.elasticon.com&#34;&gt;Elastic{ON} 15&lt;/a&gt;, which has been an amazing experience so far. Someone had the brilliant idea to set up an Apple-Style Genius bar where you just walk up and talk to someone from &lt;a href=&#34;http://www.elastic.co&#34;&gt;Elastic&lt;/a&gt; support. Sometimes you get contributors to the project your asking about too, it&amp;rsquo;s great.&lt;/p&gt;
@@ -184,10 +184,10 @@ prod.conf
     
     <item>
       <title>VPN, but with Tunnels in OS X</title>
-      <link>http://tebriel.github.io/frodux/post/vpn_tunnels_osx/</link>
+      <link>https://tebriel.github.io/frodux/post/vpn_tunnels_osx/</link>
       <pubDate>Thu, 26 Feb 2015 22:44:00 -0400</pubDate>
       
-      <guid>http://tebriel.github.io/frodux/post/vpn_tunnels_osx/</guid>
+      <guid>https://tebriel.github.io/frodux/post/vpn_tunnels_osx/</guid>
       <description>
 
 &lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
@@ -259,10 +259,10 @@ ssh -f -L 8082:jenkins.internal:80 remote-host -N
     
     <item>
       <title>Multiple Databases with Rails Testing</title>
-      <link>http://tebriel.github.io/frodux/post/multiple_databases_with_rails_testing/</link>
+      <link>https://tebriel.github.io/frodux/post/multiple_databases_with_rails_testing/</link>
       <pubDate>Thu, 30 Oct 2014 16:19:00 -0400</pubDate>
       
-      <guid>http://tebriel.github.io/frodux/post/multiple_databases_with_rails_testing/</guid>
+      <guid>https://tebriel.github.io/frodux/post/multiple_databases_with_rails_testing/</guid>
       <description>
 
 &lt;h3 id=&#34;issue&#34;&gt;Issue&lt;/h3&gt;
